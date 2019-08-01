@@ -6,4 +6,4 @@
 
 # Screenshot of the app:
 
-<img src="https://github.com/juaumzineo/ConversorDeMoedas/blob/master/screenshot.jpg" width="600">
+<img src="https://github.com/juaumzineo/ConversorDeMoedas/blob/master/screenshot.jpg" height="600">
